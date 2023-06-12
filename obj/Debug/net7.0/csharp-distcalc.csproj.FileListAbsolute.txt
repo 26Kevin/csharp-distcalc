@@ -1,0 +1,15 @@
+F:\csharp\csharp-distcalc\obj\Debug\net7.0\csharp-distcalc.csproj.AssemblyReference.cache
+F:\csharp\csharp-distcalc\obj\Debug\net7.0\csharp-distcalc.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp\csharp-distcalc\obj\Debug\net7.0\csharp-distcalc.AssemblyInfoInputs.cache
+F:\csharp\csharp-distcalc\obj\Debug\net7.0\csharp-distcalc.AssemblyInfo.cs
+F:\csharp\csharp-distcalc\obj\Debug\net7.0\csharp-distcalc.csproj.CoreCompileInputs.cache
+F:\csharp\csharp-distcalc\bin\Debug\net7.0\csharp-distcalc.exe
+F:\csharp\csharp-distcalc\bin\Debug\net7.0\csharp-distcalc.deps.json
+F:\csharp\csharp-distcalc\bin\Debug\net7.0\csharp-distcalc.runtimeconfig.json
+F:\csharp\csharp-distcalc\bin\Debug\net7.0\csharp-distcalc.dll
+F:\csharp\csharp-distcalc\bin\Debug\net7.0\csharp-distcalc.pdb
+F:\csharp\csharp-distcalc\obj\Debug\net7.0\csharp-distcalc.dll
+F:\csharp\csharp-distcalc\obj\Debug\net7.0\refint\csharp-distcalc.dll
+F:\csharp\csharp-distcalc\obj\Debug\net7.0\csharp-distcalc.pdb
+F:\csharp\csharp-distcalc\obj\Debug\net7.0\csharp-distcalc.genruntimeconfig.cache
+F:\csharp\csharp-distcalc\obj\Debug\net7.0\ref\csharp-distcalc.dll
